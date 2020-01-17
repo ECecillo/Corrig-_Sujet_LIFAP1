@@ -127,28 +127,11 @@
 
 - [LIFAP1][1]
 - [GrAPiC][2]
-- [sunlib.hpp][3]
-
-  > Defines some useful functions
-
-```cpp
-int fact(int n); // Factorial Function
-int combin(int n, int p); // Combination Function
-```
-
-# License
-
-<p align="center">
-  <a href="./LICENSE"><img src="https://nurlan.co/cdn/logo.svg" width="100%" height="128"></a>
-  <a href="./LICENSE"><strong>MIT</strong></a>
-</p>
-
-
 
 [1]: http://perso.univ-lyon1.fr/elodie.desseree/LIFAP1/
 [2]: http://liris.cnrs.fr/alexandre.meyer/grapic/html/index.html
 [3]: https://git.io/vXZXX
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzAzMTUyOV19
+eyJoaXN0b3J5IjpbLTEwMDQ0NTA4NTldfQ==
 -->
